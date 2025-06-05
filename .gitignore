@@ -1,0 +1,7 @@
+# Environment variables
+config.env
+raw_response.json
+# Other standard ignores...
+__pycache__/
+venv/
+*.pyc
